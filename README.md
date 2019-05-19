@@ -1,11 +1,11 @@
 # computer_alg
 Computer algebra labs
 
-##**lab01**
+##lab01
 Done
-##**lab02**
+##lab02
 Done
-##**lab03**
+##lab03
 Not done
-##**lab04**
+##lab04
 Done
